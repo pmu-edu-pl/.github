@@ -1,3 +1,4 @@
+![bg-banner](https://raw.githubusercontent.com/pmu-edu-pl/.github/refs/heads/main/bg-banner.jpg)
 # ABOUT
 Periyar Maniammai Institute of Science & Technology is proud to be a unique institution of higher learning and academic excellence. In an endeavour to fulfil the dreams of our Mentor Thanthai Periyar and Annai Maniammaiyar, the University is dedicated to its societal responsibility for transforming students from different parts of India and abroad into stalwarts by igniting their hidden talents. As it is located in a rural area, the students are admitted from a wide range of calibre and by personal attention, and modern teaching methodology towards a Product / Process / Demo / Case Study teaching, they are shaped into career oriented professionals with bright future.
 
